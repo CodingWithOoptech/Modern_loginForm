@@ -18,7 +18,6 @@ https://codingwithooptech.github.io/Modern_loginForm/
 
 ## 📌 Features
 - Clean and modern UI design
-- Responsive layout (works on mobile and desktop)
 - Simple login form structure
 - Beginner-friendly code
 
